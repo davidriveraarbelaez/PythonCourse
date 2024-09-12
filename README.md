@@ -20,9 +20,10 @@ Welcome to the Python Course! This guide is designed for beginners in programmin
 - Setting up a development environment
 
 ## Basic Python Syntax
-- Variables and Data Types
-- Basic Operators
-- Control Flow (if, for, while)
+- Basic Syntax and Data Types (numbers, strings, lists, tuples, dictionaries)
+- Declaring variables
+- Arithmetic, comparison, and logical operators
+- Operator precedence
 
 ## Data Structures
 - Lists
