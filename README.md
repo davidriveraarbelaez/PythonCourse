@@ -21,6 +21,7 @@ Welcome to the Python Course! This guide is designed for beginners in programmin
 
 ## Basic Python Syntax
 - Basic Syntax and Data Types (numbers, strings, lists, tuples, dictionaries)
+- Data conversion (casting)
 - Declaring variables
 - Arithmetic, comparison, and logical operators
 - Operator precedence
