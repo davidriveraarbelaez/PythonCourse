@@ -4,7 +4,7 @@ Welcome to the Python Course! This guide is designed for beginners in programmin
 
 ## Table of Contents
 1. [Introduction to Python](#introduction-to-python)
-2. [Basic Python Syntax]([https://github.com/ingDavidRivera/PythonCourse/tree/main/02_Basic_Python_Syntax])
+2. [Basic Python Syntax](https://github.com/ingDavidRivera/PythonCourse/tree/main/02_Basic_Python_Syntax)
 3. [Data Structures](#data-structures)
 4. [Functions and Modules](#functions-and-modules)
 5. [File Handling](#file-handling)
