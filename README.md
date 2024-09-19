@@ -26,6 +26,10 @@ Welcome to the Python Course! This guide is designed for beginners in programmin
 - Arithmetic, comparison, and logical operators
 - Operator precedence
 
+## Flow Control
+- Conditional Statements (if, elif, else)
+- Loops (for, while)
+
 ## Data Structures
 - Lists
 - Tuples
