@@ -5,14 +5,15 @@ Welcome to the Python Course! This guide is designed for beginners in programmin
 ## Table of Contents
 1. [Introduction to Python](#introduction-to-python)
 2. [Basic Python Syntax](https://github.com/ingDavidRivera/PythonCourse/tree/main/02_Basic_Python_Syntax)
-3. [Data Structures](#data-structures)
-4. [Functions and Modules](#functions-and-modules)
-5. [File Handling](#file-handling)
-6. [Introduction to NumPy](#introduction-to-numpy)
-7. [Data Manipulation with Pandas](#data-manipulation-with-pandas)
-8. [Data Visualization](#data-visualization)
-9. [Introduction to Machine Learning](#introduction-to-machine-learning)
-10. [Projects](#projects)
+3. [Flow Control](#flow-control)
+4. [Data Structures](#data-structures)
+5. [Functions and Modules](#functions-and-modules)
+6. [File Handling](#file-handling)
+7. [Introduction to NumPy](#introduction-to-numpy)
+8. [Data Manipulation with Pandas](#data-manipulation-with-pandas)
+9. [Data Visualization](#data-visualization)
+10. [Introduction to Machine Learning](#introduction-to-machine-learning)
+11. [Projects](#projects)
 
 ## Introduction to Python
 - What is Python?
